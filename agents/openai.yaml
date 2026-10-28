@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度视频复刻"
+  short_description: "调用 Depth Anything V2 将普通视频转换为灰度相对深度 MP4"
+  default_prompt: "使用 $depth-video 将视频转换为近处更亮、远处更暗的灰度深度视频。"
